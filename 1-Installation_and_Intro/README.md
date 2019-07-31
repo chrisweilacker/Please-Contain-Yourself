@@ -28,7 +28,7 @@ First things first, let's install Docker:
 
 You should see something like:
 ```sh
-Docker version 1.13.0, build 49bf474
+Docker version 18.09.2, build 6247962
 ```
 as long as it's NOT:
 ```sh
